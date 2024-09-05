@@ -1,4 +1,4 @@
-### Statistical Analysis with Python: Quick Notes
+# Statistical Analysis with Python: Quick Notes
 
 # Basic Concepts
 
