@@ -1,6 +1,6 @@
 ### Statistical Analysis with Python: Quick Notes
 
-#### Section 1: Basic Concepts
+# Basic Concepts
 
 - **Population**: Complete set of observations (e.g., all adults in a city).
 - **Sample**: Subset of the population (e.g., 500 adults from the city).
@@ -16,7 +16,7 @@
 - **Less Data Overhead**: Easier to manage.
 - **Focused Research**: Allows detailed analysis.
 
-#### Section 2: Basic Statistical Methods
+# Basic Statistical Methods
 
 - **Descriptive Statistics**: Summarize data features.
   - **Mean**: Average value.
@@ -37,12 +37,12 @@
   - **ANOVA (Analysis of Variance)**: Compares means across multiple groups.
   - **Chi-Square Test**: Tests the independence of categorical variables.
 
-#### Section 3: Python for Statistical Analysis
+# Python for Statistical Analysis
 
 **Install Libraries**:
 - Use `pip` to install libraries like `pandas`, `numpy`, `scipy`, `scikit-learn`, and `statsmodels`.
 
-#### Section 4: Applying Statistical Methods
+# Applying Statistical Methods
 
 - **Descriptive Statistics**: Summarize dataset features such as mean, median, mode, standard deviation, variance, range, percentiles, IQR, skewness, and kurtosis.
 - **Inferential Statistics**:
